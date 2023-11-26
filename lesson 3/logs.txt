@@ -1,0 +1,5 @@
+[2023-11-12 21:43:25] INFO: Request was successful.
+[2023-11-12 21:43:28] INFO: Request was successful.
+[2023-11-12 21:43:31] INFO: Request was successful.
+[2023-11-12 21:45:25] ERROR: An error occurred.
+[2023-11-12 23:08:44] ERROR: An error occurred.

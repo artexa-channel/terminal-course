@@ -1,0 +1,19 @@
+{
+  "name": "log_generator",
+  "version": "1.0.0",
+  "description": "Welcome to the **Shell Log Generator**! This is an indispensable tool designed for simulating log files for various debugging and monitoring purposes. We've taken a deep dive into the intricate world of shell scripting to provide you with a lightweight, efficient, and customizable solution for all your mock logging needs.",
+  "main": "log_generator.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artexa-channel/terminal-course.git"
+  },
+  "author": "artexa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artexa-channel/terminal-course/issues"
+  },
+  "homepage": "https://github.com/artexa-channel/terminal-course#readme"
+}
